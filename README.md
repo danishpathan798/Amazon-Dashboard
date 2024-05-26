@@ -34,3 +34,5 @@ To explore the Amazon Power BI Dashboard:
 - **Data**: Contains the dataset used for building the dashboard (e.g., CSV files, Excel sheets).
 - **Dashboard**: Includes the Power BI file (.pbix) containing the dashboard layout, visualizations, and data model.
 - **Documentation**: Provides additional documentation and resources related to the project (e.g., data dictionary, user guide).
+
+![Amazon Dashboard](https://github.com/danishpathan798/Amazon-Dashboard/assets/169689750/ecb6b284-fe6d-471d-8780-aa93af05a906)
